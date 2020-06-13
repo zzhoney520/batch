@@ -1537,6 +1537,3 @@
 　　for /r c:\\ %%i in (boot.ini) do if exist %%i echo %%i
 
 　　pause
-评论
-您没有权限添加评论。
-登录|举报滥用行为|打印页面|由 Google 协作平台强力驱动
